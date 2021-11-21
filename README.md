@@ -1,5 +1,11 @@
 # InstagramStatistics-Frontend
 
+# WHAT IT DOES
+Gets following, followers, posts of an instagram user
+
+# How is made
+Is made with ReactJS + Redux (Persistence is included, keeps data after refresh)
+
 # HOW TO USE THE APP
 1. Use npm install
 2. Create .env file (please see .env.sample)
